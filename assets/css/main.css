@@ -4609,7 +4609,7 @@ body .mfp-wrap .mfp-container .mfp-content .mfp-close:hover::before, body .mfp-w
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
-  background-color: var(--color-white);
+  background-color: #161614;
   margin-bottom: 30px; }
   @media (max-width: 1199px) {
     .products .product .xb-item--img {
